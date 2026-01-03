@@ -1,3 +1,20 @@
+# Write a program in MIPS assembly to declare an array of
+#8 integer numbers, then
+#perform the following tasks:
+#Calculate and print:
+#count of even numbers
+#count of odd numbers
+#count of numbers greater than zero
+#count of numbers less than zero
+
+
+
+
+
+
+
+
+
 .data
 	arry: .word 11,7,55,-4,5,6,7,8
 	size: .word 8
